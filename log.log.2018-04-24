@@ -1,0 +1,12 @@
+2018-04-24 18:46:22  [ main:0 ] - [ DEBUG ]  Analyzing class class com.loan.pool.Supplier for index information.
+2018-04-24 18:46:22  [ main:14 ] - [ DEBUG ]  Inserting DBObject containing fields: [password, company, code] in collection: pro_supplier
+2018-04-24 18:46:22  [ main:39 ] - [ DEBUG ]  Getting Mongo Database name=[pro_supplier]
+2018-04-24 18:47:17  [ main:0 ] - [ DEBUG ]  Analyzing class class com.loan.pool.Supplier for index information.
+2018-04-24 18:47:17  [ main:16 ] - [ DEBUG ]  Inserting DBObject containing fields: [password, company, code] in collection: pro_supplier
+2018-04-24 18:47:17  [ main:20 ] - [ DEBUG ]  Getting Mongo Database name=[pro_supplier]
+2018-04-24 18:47:58  [ main:0 ] - [ DEBUG ]  Analyzing class class com.loan.pool.Supplier for index information.
+2018-04-24 18:47:58  [ main:10 ] - [ DEBUG ]  Inserting DBObject containing fields: [password, company, code] in collection: pro_supplier
+2018-04-24 18:47:58  [ main:16 ] - [ DEBUG ]  Getting Mongo Database name=[pro_supplier]
+2018-04-24 18:48:15  [ main:0 ] - [ DEBUG ]  Analyzing class class com.loan.pool.Supplier for index information.
+2018-04-24 18:48:16  [ main:13 ] - [ DEBUG ]  Inserting DBObject containing fields: [password, company, code] in collection: pro_supplier
+2018-04-24 18:48:16  [ main:17 ] - [ DEBUG ]  Getting Mongo Database name=[pro_supplier]
